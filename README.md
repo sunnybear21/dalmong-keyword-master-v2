@@ -110,6 +110,8 @@ GPT Park 박홍규님께서는 "최근에 본 네이버 검색 API 활용 앱 �
 
 완벽하진 않지만, **매일 만들고 배우고 성장 중입니다.**  
 함께할 기회를 기다리고 있어요.
+
 포트폴리오: https://sunnybear21.github.io/sunnybear.github.io/
+
 📧 **rsy0314@gmail.com** 으로 언제든 연락 주세요.  
 감사합니다! 😊
